@@ -1,4 +1,4 @@
-re==2020.10.22
+
 beautifulsoup4==0.0.1
 python==3.9.2
 requests==2.25.1
